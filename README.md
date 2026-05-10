@@ -1,6 +1,7 @@
 # image-classifier
 
 IN TESTING
+
 Creation of CNN Neural Netowrk as an Image classifier using CIFAR-10 dataset to determine if an object 
 is alive or not (Animate vs Inaniamte)
 
